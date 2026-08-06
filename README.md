@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏥 MedCare Clinic
 
-## Getting Started
+A modern medical clinic website built with **Next.js, TypeScript, and Tailwind CSS**.
 
-First, run the development server:
+This project demonstrates a professional healthcare platform with doctor profiles, appointment interface, authentication pages, and responsive design.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Live Demo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Coming soon...
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📸 Screenshots
 
-To learn more about Next.js, take a look at the following resources:
+(Add screenshots here after deployment)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ✨ Features
 
-## Deploy on Vercel
+### 🏠 Home Page
+- Modern medical landing page
+- Hero section
+- Healthcare statistics
+- Why choose MedCare section
+- Responsive design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 👨‍⚕️ Doctors
+- Doctors listing page
+- Individual doctor profiles
+- Doctor information cards
+- Appointment buttons
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🏥 Medical Services
+- Cardiology
+- Neurology
+- General Medicine
+- Laboratory
+- Emergency Care
+- Health Checkup
+
+### 📅 Appointment System UI
+- Appointment booking interface
+- Doctor selection
+- User-friendly design
+
+### 🔐 Authentication
+- Login page
+- Register page
+- Forgot password page
+
+### 📱 Responsive Design
+Optimized for:
+- Desktop
+- Tablet
+- Mobile devices
+
+---
+
+## 🛠️ Technologies
+
+Frontend:
+
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+
+Tools:
+
+- Git
+- GitHub
+- Vercel
+
+---
+
+## 📂 Project Structure
